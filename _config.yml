@@ -21,7 +21,7 @@
 title: Ratistan
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A small website for my rat themed action rpg game project.
+  A rat themed action rpg
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
