@@ -8,4 +8,8 @@ layout: default
 
 ---
 
-[World building & Art](/posts/2024/10/07/post.html)
+[World building & Art](/posts/2024/10/07/world-building.html)
+
+[Final boss](/posts/2024/10/07/final-boss.html)
+
+[Cheese dungeon](/posts/2024/10/07/cheese.html)
