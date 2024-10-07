@@ -13,3 +13,7 @@ layout: default
 [Final boss](/posts/2024/10/07/final-boss.html)
 
 [Cheese dungeon](/posts/2024/10/07/cheese.html)
+
+[Cult of the forgotten one](/posts/2024/10/07/cult.html)
+
+
